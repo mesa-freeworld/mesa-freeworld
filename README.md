@@ -1,8 +1,6 @@
 # mesa-freeworld
 freeworld build of mesa for Manjaro unstable branch
 
-# mesa-freeworld
-
 Forked from [https://gitlab.manjaro.org/packages/extra/mesa/-/blob/master/PKGBUILD][1]
 
 ## Build instructions
